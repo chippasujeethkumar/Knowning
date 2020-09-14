@@ -1,3 +1,6 @@
 Just now came to Git hub
 
 Added some code
+
+I was trying to learn the git but
+not working in my system
